@@ -1,4 +1,4 @@
-# actions-set-product-version
+# actions-web-version
 [![Heimdall](https://heimdall.hashicorp.services/api/v1/assets/actions-set-product-version/badge.svg?key=195370081cbf50568fa41066c157e122a929e253ffa3f7e9b377c73433d31061)](https://heimdall.hashicorp.services/site/assets/actions-set-product-version) [![CI](https://github.com/hashicorp/actions-set-product-version/actions/workflows/lint.yml/badge.svg)](https://github.com/hashicorp/actions-set-product-version/actions/workflows/lint.yml)
 
 ## Description
